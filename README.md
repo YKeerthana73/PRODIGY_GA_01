@@ -129,11 +129,4 @@ Dataset: Replace `your_dataset.txt` with your own dataset file containing text d
 Training Parameters: Adjust `num_train_epochs`, `learning_rate`, and `per_device_train_batch_size` in `TrainingArguments` for optimal model performance based on your specific requirements.
 
 
-## Contributing
-Contributions to improve this project are welcome! If you'd like to contribute:
 
-- Fork the repository.
-- Create a new branch with a descriptive name (`git checkout -b my-branch-name`).
-- Make your changes and commit them (`git commit -am 'Add some feature'`).
-- Push to the branch (`git push origin my-branch-name`).
-- Create a new Pull Request.
